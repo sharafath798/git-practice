@@ -1,0 +1,7 @@
+Login Module Requirements
+
+1. User should enter username.
+2. User should enter password.
+3. Password must be masked.
+4. Invalid login should display an error message.
+5. Successful login redirects to the dashboard.
